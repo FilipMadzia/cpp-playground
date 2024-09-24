@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exploring-classes", "explor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exploring-polymorphism", "exploring-polymorphism\exploring-polymorphism.vcxproj", "{02438A41-C6DB-433F-A95C-29600E2384FC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exploring-files", "exploring-files\exploring-files.vcxproj", "{ECFB326E-FCF3-4EA3-A050-685FD1578A3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{02438A41-C6DB-433F-A95C-29600E2384FC}.Release|x64.Build.0 = Release|x64
 		{02438A41-C6DB-433F-A95C-29600E2384FC}.Release|x86.ActiveCfg = Release|Win32
 		{02438A41-C6DB-433F-A95C-29600E2384FC}.Release|x86.Build.0 = Release|Win32
+		{ECFB326E-FCF3-4EA3-A050-685FD1578A3A}.Debug|x64.ActiveCfg = Debug|x64
+		{ECFB326E-FCF3-4EA3-A050-685FD1578A3A}.Debug|x64.Build.0 = Debug|x64
+		{ECFB326E-FCF3-4EA3-A050-685FD1578A3A}.Debug|x86.ActiveCfg = Debug|Win32
+		{ECFB326E-FCF3-4EA3-A050-685FD1578A3A}.Debug|x86.Build.0 = Debug|Win32
+		{ECFB326E-FCF3-4EA3-A050-685FD1578A3A}.Release|x64.ActiveCfg = Release|x64
+		{ECFB326E-FCF3-4EA3-A050-685FD1578A3A}.Release|x64.Build.0 = Release|x64
+		{ECFB326E-FCF3-4EA3-A050-685FD1578A3A}.Release|x86.ActiveCfg = Release|Win32
+		{ECFB326E-FCF3-4EA3-A050-685FD1578A3A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
