@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "average-sleep-time", "avera
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "if-statements", "if-statements\if-statements.vcxproj", "{CFB7A3CD-81F9-4662-A1EE-FD6B09720BF1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "inheritence-polymorphism-friend-functions", "inheritence-polymorphism-friend-functions\inheritence-polymorphism-friend-functions.vcxproj", "{8B2DEB63-405B-45EF-838A-1CF116B28840}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{CFB7A3CD-81F9-4662-A1EE-FD6B09720BF1}.Release|x64.Build.0 = Release|x64
 		{CFB7A3CD-81F9-4662-A1EE-FD6B09720BF1}.Release|x86.ActiveCfg = Release|Win32
 		{CFB7A3CD-81F9-4662-A1EE-FD6B09720BF1}.Release|x86.Build.0 = Release|Win32
+		{8B2DEB63-405B-45EF-838A-1CF116B28840}.Debug|x64.ActiveCfg = Debug|x64
+		{8B2DEB63-405B-45EF-838A-1CF116B28840}.Debug|x64.Build.0 = Debug|x64
+		{8B2DEB63-405B-45EF-838A-1CF116B28840}.Debug|x86.ActiveCfg = Debug|Win32
+		{8B2DEB63-405B-45EF-838A-1CF116B28840}.Debug|x86.Build.0 = Debug|Win32
+		{8B2DEB63-405B-45EF-838A-1CF116B28840}.Release|x64.ActiveCfg = Release|x64
+		{8B2DEB63-405B-45EF-838A-1CF116B28840}.Release|x64.Build.0 = Release|x64
+		{8B2DEB63-405B-45EF-838A-1CF116B28840}.Release|x86.ActiveCfg = Release|Win32
+		{8B2DEB63-405B-45EF-838A-1CF116B28840}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
