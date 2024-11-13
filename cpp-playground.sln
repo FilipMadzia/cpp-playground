@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "functions-exercise", "funct
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "classes-and-objects-exercise", "classes-and-objects-exercise\classes-and-objects-exercise.vcxproj", "{894200CD-5B23-4095-A182-800C9F595AE9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stairs-exercise", "stairs-exercise\stairs-exercise.vcxproj", "{16F1EAE6-1AB8-409A-8DF5-276EF42E21EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{894200CD-5B23-4095-A182-800C9F595AE9}.Release|x64.Build.0 = Release|x64
 		{894200CD-5B23-4095-A182-800C9F595AE9}.Release|x86.ActiveCfg = Release|Win32
 		{894200CD-5B23-4095-A182-800C9F595AE9}.Release|x86.Build.0 = Release|Win32
+		{16F1EAE6-1AB8-409A-8DF5-276EF42E21EB}.Debug|x64.ActiveCfg = Debug|x64
+		{16F1EAE6-1AB8-409A-8DF5-276EF42E21EB}.Debug|x64.Build.0 = Debug|x64
+		{16F1EAE6-1AB8-409A-8DF5-276EF42E21EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{16F1EAE6-1AB8-409A-8DF5-276EF42E21EB}.Debug|x86.Build.0 = Debug|Win32
+		{16F1EAE6-1AB8-409A-8DF5-276EF42E21EB}.Release|x64.ActiveCfg = Release|x64
+		{16F1EAE6-1AB8-409A-8DF5-276EF42E21EB}.Release|x64.Build.0 = Release|x64
+		{16F1EAE6-1AB8-409A-8DF5-276EF42E21EB}.Release|x86.ActiveCfg = Release|Win32
+		{16F1EAE6-1AB8-409A-8DF5-276EF42E21EB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
